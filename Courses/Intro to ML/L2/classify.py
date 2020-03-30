@@ -34,11 +34,15 @@ def NBAccuracy(features_train, labels_train, features_test, labels_test):
     print("All Labels Count", labels_all)
     print("Accuracy ratio", accuracy_ratio)
    
-   
+    ### My Code ### Accuracy Methods .score(X,y) 
+    accuracy_score = clf.score(features_test, pred)
+    print(accuracy_score)
 
     ### calculate and return the accuracy on the test data
     ### this is slightly different than the example, 
     ### where we just print the accuracy
     ### you might need to import an sklearn module
-    accuracy = 0
+    
+    ### My Code ### Choose from 'accuracy_ratio' and 'accuracy_score'
+    accuracy = accuracy_score
     return accuracy
