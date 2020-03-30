@@ -28,6 +28,7 @@ def NBAccuracy(features_train, labels_train, features_test, labels_test):
     for i in range(len(features_test)):
         if pred[i] == labels_test[i] : labels_equal += 1
     
+    ### My Code ### Calculate ratio
     accuracy_ratio = labels_equal / labels_all   
     
     print("Equal Labels", labels_equal)
