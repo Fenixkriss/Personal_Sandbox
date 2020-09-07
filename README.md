@@ -1,1 +1,7 @@
-This repo contains a portfolio resume that showcases examples of your work along with the usual resume information about your work experience. It was created with HTML, CSS and Javascript. Its is lightweight and fully responsive, as well as comes with the Bootstrap.
+This repo contains a Projects and Tests files. Examples of my study and all the other stuff.
+
+### 1. P01: DABK Permission Registry
+Task: Statistical DataSet Cleaning and Descriptive Analysis
+Unified registry of preparatory and construction work permissions and certify the commissioning of completed facilities.
+Owner: State Architectural and Construction Inspectorate of Ukraine
+Source: https://data.gov.ua/
