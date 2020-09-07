@@ -23,3 +23,10 @@ Owner: State Judicial Administration of Ukraine
 Source: https://data.gov.ua/dataset/vidomosti-pro-spravi-pro-bankrutstvo-1
 
 ### 3. P03: TestTask
+
+Task:
+
+Info:
+
+
+
